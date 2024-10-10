@@ -77,9 +77,8 @@ Group Activity: Draft a simple API documentation for a fictional API.
 [Markdown Viewer](https://chromewebstore.google.com/detail/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en-US&utm_source=ext_sidebar)
 - Cheat sheets for Markdown syntax. 
     - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- Links to online Markdown tutorials and documentation.
+- Links to online Markdown examples and documentation.
     - [TeamUp API](https://github.com/traviicii/CO.LAB23-backend)
     - [Database Migration Guide](https://github.com/traviicii/sql-database-migration-guide)
     - [React Application Setup](https://github.com/traviicii/kekambas-react-intro)
     - [Flask Template](https://github.com/traviicii/flask_template)
-- Examples of good documentation in open-source projects.
